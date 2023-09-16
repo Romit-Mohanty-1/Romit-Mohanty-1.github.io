@@ -44,8 +44,14 @@ nav {
     display: inline-block;
     position: relative;
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
+.toggle-switch {
+    display: none;
+}
+
+/* Style for the dark mode switch in light mode */
 .toggle-label:before {
     content: '';
     width: 20px;
@@ -58,9 +64,13 @@ nav {
     transition: transform 0.3s;
 }
 
-/* Dark mode switch styles */
-.toggle-switch:checked + .toggle-label:before {
-    transform: translateX(20px);
+/* Style for the dark mode switch in dark mode */
+body.dark-mode .toggle-label {
+    background-color: #444;
+}
+
+body.dark-mode .toggle-label:before {
+    left: 20px;
 }
 
 /* Main content styles */
