@@ -7,7 +7,7 @@ body, h1, h2, p {
 /* Global styles for light mode */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Light background color */
+    background-color: rgb(255, 255, 255); /* Light background color */
     color: #333; /* Text color for light mode */
     transition: background-color 0.5s, color 0.5s; /* Smooth transition */
 }
@@ -20,7 +20,7 @@ body.dark-mode {
 
 /* Header styles */
 header {
-    background-color: #0078d4; /* Header background color */
+    background-color: rgb(5, 201, 5); /* Header background color */
     color: #fff; /* Header text color */
     padding: 1rem;
 }
