@@ -140,7 +140,7 @@ main {
 /* Footer styles */
 footer {
     text-align: center;
-    background-color: #0078d4; /* Footer background color */
+    background-color: rgb(5, 201, 5); /* Footer background color */
     color: #fff; /* Footer text color */
     padding: 1rem;
 }
