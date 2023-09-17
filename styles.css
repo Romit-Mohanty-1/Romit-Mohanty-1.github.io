@@ -20,7 +20,7 @@ body.dark-mode {
 
 /* Header styles */
 header {
-    background-color: rgb(183, 44, 86); /* Header background color */
+    background-color: rgb(3, 27, 145); /* Header background color */
     color: #fff; /* Header text color */
     padding: 1rem;
 }
