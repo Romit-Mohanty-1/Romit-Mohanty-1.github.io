@@ -20,7 +20,7 @@ body.dark-mode {
 
 /* Header styles */
 header {
-    background-color: rgb(5, 201, 5); /* Header background color */
+    background-color: rgb(183, 44, 86); /* Header background color */
     color: #fff; /* Header text color */
     padding: 1rem;
 }
@@ -140,7 +140,7 @@ main {
 /* Footer styles */
 footer {
     text-align: center;
-    background-color: rgb(5, 201, 5); /* Footer background color */
+    background-color: rgb(183, 44, 86); /* Footer background color */
     color: #fff; /* Footer text color */
     padding: 1rem;
 }
