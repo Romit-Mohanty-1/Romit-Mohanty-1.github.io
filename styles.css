@@ -14,13 +14,13 @@ body {
 
 /* Global styles for dark mode */
 body.dark-mode {
-    background-color: #cba4dd; /* Dark background color */
+    background-color: #bd63e7; /* Dark background color */
     color: #25d35c; /* Text color for dark mode */
 }
 
 /* Header styles */
 header {
-    background-color: rgb(56, 26, 66); /* Header background color */
+    background-color: rgb(101, 0, 134); /* Header background color */
     color: #fff; /* Header text color */
     padding: 1rem;
 }
