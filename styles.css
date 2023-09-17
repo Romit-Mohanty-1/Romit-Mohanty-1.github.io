@@ -15,7 +15,7 @@ body {
 /* Global styles for dark mode */
 body.dark-mode {
     background-color: #111; /* Dark background color */
-    color: #04e01e; /* Text color for dark mode */
+    color: #007ce1; /* Text color for dark mode */
 }
 
 /* Header styles */
